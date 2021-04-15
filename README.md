@@ -18,3 +18,8 @@ Siirry kohtaan My Filters ja kopioi IltalehtiPlus-ublock-filters tiedoston sisä
 Paina Apply Changes.
 
 Valmis.
+
+## Credits
+
+[Durgor](https://twitter.com/Durgor)
+[Tuhoontuomittu](https://twitter.com/Tuhoontuomittu)
