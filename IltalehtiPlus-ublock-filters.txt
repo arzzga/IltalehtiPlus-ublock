@@ -1,0 +1,5 @@
+iltalehti.fi##.full-article:has(.front-category-time > .inline.il-plus-svg-logo)
+iltalehti.fi##.article-container:has(.title-container > .a-title-font.title > .inline.il-plus-svg-logo)
+iltalehti.fi##.full-article:has(.front-category-time > .inline.il-plus-svg-logo)
+iltalehti.fi##.puffi.newsticker-item:has(.inline.il-plus-svg-logo)
+iltalehti.fi##[href="/plus"] > .nav-link-text
