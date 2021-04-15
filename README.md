@@ -6,6 +6,7 @@ Poistaa Iltalehden sivuilta kaiken Iltalehti Plus -sisällön.
 Asenna uBlock Origin:
 
 [Chrome] (https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
 [Firefox] (https://addons.mozilla.org/fi/firefox/addon/ublock-origin/)
 
 Avaa uBlock Originin Dashboard
