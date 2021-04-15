@@ -9,6 +9,8 @@ Asenna uBlock Origin:
 
 [Firefox](https://addons.mozilla.org/fi/firefox/addon/ublock-origin/)
 
+---
+
 Avaa uBlock Originin Dashboard
 
 Siirry kohtaan My Filters ja kopioi IltalehtiPlus-ublock-filters tiedoston sisältö alimmaiseksi.
