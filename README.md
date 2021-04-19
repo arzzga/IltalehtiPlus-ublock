@@ -17,4 +17,4 @@ Valmis.
 
 [Durgor](https://twitter.com/Durgor)
 
-[Tuhoontuomittu](https://twitter.com/Tuhoontuomittu)
+[Althir](https://twitter.com/Tuhoontuomittu)
