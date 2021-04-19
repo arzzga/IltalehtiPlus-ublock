@@ -1,4 +1,4 @@
-# IltalehtiPlus filtterit uBlock Originiin
+# Iltalehti Plus uBlock Origin Filter List
 Poistaa Iltalehden sivuilta kaiken Iltalehti Plus -sisällön.
 
 ## Asennus:
